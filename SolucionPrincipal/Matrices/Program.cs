@@ -34,7 +34,7 @@ namespace Matrices
 
 
             string voltear = "Una oración muy larga " + 
-                "Otra oración larga.";
+                ".Otra oración larga.";
 
             char[] charArray = voltear.ToCharArray();
             Array.Reverse(charArray);
