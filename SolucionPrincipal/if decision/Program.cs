@@ -13,28 +13,35 @@ namespace if_decision
             //first part
             Console.WriteLine("Bienvenido a las casa de Juan ¡El magnifico!");
             Console.WriteLine("Elije una puerta a tomar");
-            string valorUsuario = Console.ReadLine();   
+            string valorUsuario = Console.ReadLine();
 
-            if (valorUsuario == "1"){
+            if (valorUsuario == "1")
+            {
 
                 string mensaje = "Mala elección, ahora me debes todo tu dinero";
-                Console.WriteLine(mensaje);}
+                Console.WriteLine(mensaje);
+            }
 
             //Agregando más opciones
 
-            if (valorUsuario == "2") {
+            else if (valorUsuario == "2")
+            {
 
                 string mensaje = "Mala elección, ahora tu casa es mía";
                 Console.WriteLine(mensaje);
             }
 
-            if (valorUsuario == "3")
+            else if (valorUsuario == "3")
             {
 
                 string mensaje = "Buena elección ¡Te puedes ir de mi casa!";
                 Console.WriteLine(mensaje);
             }
 
+            else
+            {
+                Console.WriteLine("Entra por una puerta correcta, por favor");
+            }
 
             Console.ReadLine();
         }
