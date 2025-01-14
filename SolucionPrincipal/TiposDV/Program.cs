@@ -25,9 +25,15 @@ namespace TiposDV
             string primerNombre;
             primerNombre = Console.ReadLine();
 
-            string apellido;
-            Console.Write("Dime tu apellido:");
-            apellido = Console.ReadLine();
+            //string apellido;
+            //Console.Write("Dime tu apellido:");
+            //apellido = Console.ReadLine();
+               
+            
+            Console.WriteLine("Dime tu apellido");
+            string apellido = Console.ReadLine();
+           
+
 
             Console.WriteLine("¡Hey! Mucho gusto " + primerNombre + " " + apellido);
             Console.ReadLine();

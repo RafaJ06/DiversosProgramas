@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\INTEC\\Trimetres 03 (Noviembre - Enero 2024)\\Desarrollo de Software 1\\Semana 6-11\\Practicas_Curso_C#\\Prac_1\\.vs\\DiversosProgramas\\SolucionPrincipal\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D4886069-F9CB-4114-AE47-246E780DEA34}|Matrices\\Matrices.csproj|c:\\users\\user\\desktop\\intec\\trimetres 03 (noviembre - enero 2024)\\desarrollo de software 1\\semana 6-11\\practicas_curso_c#\\prac_1\\.vs\\diversosprogramas\\solucionprincipal\\matrices\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4886069-F9CB-4114-AE47-246E780DEA34}|Matrices\\Matrices.csproj|solutionrelative:matrices\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{025D9FEB-6F57-4616-8A96-B836BDD21D39}|TiposDV\\TiposDV.csproj|c:\\users\\user\\desktop\\intec\\trimetres 03 (noviembre - enero 2024)\\desarrollo de software 1\\semana 6-11\\practicas_curso_c#\\prac_1\\.vs\\diversosprogramas\\solucionprincipal\\tiposdv\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{025D9FEB-6F57-4616-8A96-B836BDD21D39}|TiposDV\\TiposDV.csproj|solutionrelative:tiposdv\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -40,18 +44,31 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\INTEC\\Trimetres 03 (Noviembre - Enero 2024)\\Desarrollo de Software 1\\Semana 6-11\\Practicas_Curso_C#\\Prac_1\\.vs\\DiversosProgramas\\SolucionPrincipal\\Matrices\\Program.cs",
+              "RelativeDocumentMoniker": "Matrices\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\INTEC\\Trimetres 03 (Noviembre - Enero 2024)\\Desarrollo de Software 1\\Semana 6-11\\Practicas_Curso_C#\\Prac_1\\.vs\\DiversosProgramas\\SolucionPrincipal\\Matrices\\Program.cs*",
+              "RelativeToolTip": "Matrices\\Program.cs*",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T15:01:47.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\INTEC\\Trimetres 03 (Noviembre - Enero 2024)\\Desarrollo de Software 1\\Semana 6-11\\Practicas_Curso_C#\\Prac_1\\.vs\\DiversosProgramas\\SolucionPrincipal\\TiposDV\\Program.cs",
               "RelativeDocumentMoniker": "TiposDV\\Program.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\INTEC\\Trimetres 03 (Noviembre - Enero 2024)\\Desarrollo de Software 1\\Semana 6-11\\Practicas_Curso_C#\\Prac_1\\.vs\\DiversosProgramas\\SolucionPrincipal\\TiposDV\\Program.cs*",
-              "RelativeToolTip": "TiposDV\\Program.cs*",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAzwCAAAAAfAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\INTEC\\Trimetres 03 (Noviembre - Enero 2024)\\Desarrollo de Software 1\\Semana 6-11\\Practicas_Curso_C#\\Prac_1\\.vs\\DiversosProgramas\\SolucionPrincipal\\TiposDV\\Program.cs",
+              "RelativeToolTip": "TiposDV\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBwAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-14T13:36:38.939Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\INTEC\\Trimetres 03 (Noviembre - Enero 2024)\\Desarrollo de Software 1\\Semana 6-11\\Practicas_Curso_C#\\Prac_1\\.vs\\DiversosProgramas\\SolucionPrincipal\\if decision\\Program.cs",
               "RelativeDocumentMoniker": "if decision\\Program.cs",
@@ -64,7 +81,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\INTEC\\Trimetres 03 (Noviembre - Enero 2024)\\Desarrollo de Software 1\\Semana 6-11\\Practicas_Curso_C#\\Prac_1\\.vs\\DiversosProgramas\\SolucionPrincipal\\ClaseUno\\Program.cs",
               "RelativeDocumentMoniker": "ClaseUno\\Program.cs",
