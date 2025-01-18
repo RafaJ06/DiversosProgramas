@@ -1,7 +1,0 @@
-C:\Users\USER\Desktop\INTEC\Trimetres 03 (Noviembre - Enero 2024)\Desarrollo de Software 1\Semana 6-11\Practicas_Curso_C#\Prac_1\.vs\DiversosProgramas\SolucionPrincipal\TiposDV\bin\Debug\TiposDV.exe.config
-C:\Users\USER\Desktop\INTEC\Trimetres 03 (Noviembre - Enero 2024)\Desarrollo de Software 1\Semana 6-11\Practicas_Curso_C#\Prac_1\.vs\DiversosProgramas\SolucionPrincipal\TiposDV\bin\Debug\TiposDV.exe
-C:\Users\USER\Desktop\INTEC\Trimetres 03 (Noviembre - Enero 2024)\Desarrollo de Software 1\Semana 6-11\Practicas_Curso_C#\Prac_1\.vs\DiversosProgramas\SolucionPrincipal\TiposDV\bin\Debug\TiposDV.pdb
-C:\Users\USER\Desktop\INTEC\Trimetres 03 (Noviembre - Enero 2024)\Desarrollo de Software 1\Semana 6-11\Practicas_Curso_C#\Prac_1\.vs\DiversosProgramas\SolucionPrincipal\TiposDV\obj\Debug\TiposDV.csproj.AssemblyReference.cache
-C:\Users\USER\Desktop\INTEC\Trimetres 03 (Noviembre - Enero 2024)\Desarrollo de Software 1\Semana 6-11\Practicas_Curso_C#\Prac_1\.vs\DiversosProgramas\SolucionPrincipal\TiposDV\obj\Debug\TiposDV.csproj.CoreCompileInputs.cache
-C:\Users\USER\Desktop\INTEC\Trimetres 03 (Noviembre - Enero 2024)\Desarrollo de Software 1\Semana 6-11\Practicas_Curso_C#\Prac_1\.vs\DiversosProgramas\SolucionPrincipal\TiposDV\obj\Debug\TiposDV.exe
-C:\Users\USER\Desktop\INTEC\Trimetres 03 (Noviembre - Enero 2024)\Desarrollo de Software 1\Semana 6-11\Practicas_Curso_C#\Prac_1\.vs\DiversosProgramas\SolucionPrincipal\TiposDV\obj\Debug\TiposDV.pdb
