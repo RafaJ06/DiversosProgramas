@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\INTEC\\Trimetres 03 (Noviembre - Enero 2024)\\Desarrollo de Software 1\\Semana 6-11\\Practicas_Curso_C#\\Prac_1\\.vs\\DiversosProgramas\\SolucionPrincipal\\WFPEvents\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5BD84F37-1DA2-4CC9-BD69-98012D62728F}|WFPEvents.csproj|c:\\users\\user\\desktop\\intec\\trimetres 03 (noviembre - enero 2024)\\desarrollo de software 1\\semana 6-11\\practicas_curso_c#\\prac_1\\.vs\\diversosprogramas\\solucionprincipal\\wfpevents\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BD84F37-1DA2-4CC9-BD69-98012D62728F}|WFPEvents.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\INTEC\\Trimetres 03 (Noviembre - Enero 2024)\\Desarrollo de Software 1\\Semana 6-11\\Practicas_Curso_C#\\Prac_1\\.vs\\DiversosProgramas\\SolucionPrincipal\\WFPEvents\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\INTEC\\Trimetres 03 (Noviembre - Enero 2024)\\Desarrollo de Software 1\\Semana 6-11\\Practicas_Curso_C#\\Prac_1\\.vs\\DiversosProgramas\\SolucionPrincipal\\WFPEvents\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T20:26:15.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

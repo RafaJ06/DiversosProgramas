@@ -3,55 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\INTEC\\Trimetres 03 (Noviembre - Enero 2024)\\Desarrollo de Software 1\\Semana 6-11\\Practicas_Curso_C#\\Prac_1\\.vs\\DiversosProgramas\\SolucionPrincipal\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{27FD7A0C-3F84-4F10-ACCB-663FFAC96809}|BiblioUno\\BiblioUno.csproj|c:\\users\\user\\desktop\\intec\\trimetres 03 (noviembre - enero 2024)\\desarrollo de software 1\\semana 6-11\\practicas_curso_c#\\prac_1\\.vs\\diversosprogramas\\solucionprincipal\\bibliouno\\scrape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27FD7A0C-3F84-4F10-ACCB-663FFAC96809}|BiblioUno\\BiblioUno.csproj|solutionrelative:bibliouno\\scrape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1C4974E8-E7B4-4675-83C4-E6F425A688E0}|LastLesson\\LastLesson.csproj|c:\\users\\user\\desktop\\intec\\trimetres 03 (noviembre - enero 2024)\\desarrollo de software 1\\semana 6-11\\practicas_curso_c#\\prac_1\\.vs\\diversosprogramas\\solucionprincipal\\lastlesson\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C4974E8-E7B4-4675-83C4-E6F425A688E0}|LastLesson\\LastLesson.csproj|solutionrelative:lastlesson\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10CBF725-4ADB-402E-9E32-B3D7FE3EF823}|Collections\\Collections.csproj|c:\\users\\user\\desktop\\intec\\trimetres 03 (noviembre - enero 2024)\\desarrollo de software 1\\semana 6-11\\practicas_curso_c#\\prac_1\\.vs\\diversosprogramas\\solucionprincipal\\collections\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10CBF725-4ADB-402E-9E32-B3D7FE3EF823}|Collections\\Collections.csproj|solutionrelative:collections\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26F4EE06-1A74-42E7-9289-8744645F9254}|MoreClaMeth\\MoreClaMeth.csproj|c:\\users\\user\\desktop\\intec\\trimetres 03 (noviembre - enero 2024)\\desarrollo de software 1\\semana 6-11\\practicas_curso_c#\\prac_1\\.vs\\diversosprogramas\\solucionprincipal\\moreclameth\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26F4EE06-1A74-42E7-9289-8744645F9254}|MoreClaMeth\\MoreClaMeth.csproj|solutionrelative:moreclameth\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF367820-B6BC-4FD5-BCDA-DC02CFFC0E0E}|Switch\\Switch.csproj|c:\\users\\user\\desktop\\intec\\trimetres 03 (noviembre - enero 2024)\\desarrollo de software 1\\semana 6-11\\practicas_curso_c#\\prac_1\\.vs\\diversosprogramas\\solucionprincipal\\switch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF367820-B6BC-4FD5-BCDA-DC02CFFC0E0E}|Switch\\Switch.csproj|solutionrelative:switch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4679957D-E0D7-49E6-B911-94FBFE02B8D7}|Clases\\Clases.csproj|c:\\users\\user\\desktop\\intec\\trimetres 03 (noviembre - enero 2024)\\desarrollo de software 1\\semana 6-11\\practicas_curso_c#\\prac_1\\.vs\\diversosprogramas\\solucionprincipal\\clases\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4679957D-E0D7-49E6-B911-94FBFE02B8D7}|Clases\\Clases.csproj|solutionrelative:clases\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\AppData\\Local\\Temp\\.vsdbgsrc\\515e8fee713d44fd8808515ed095fcf2a59e57132f241e0166a16016e4622408\\StringBuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D226A7BE-347B-410B-83DE-ED2793E27246}|ModAcces\\ModAcces.csproj|c:\\users\\user\\desktop\\intec\\trimetres 03 (noviembre - enero 2024)\\desarrollo de software 1\\semana 6-11\\practicas_curso_c#\\prac_1\\.vs\\diversosprogramas\\solucionprincipal\\modacces\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D226A7BE-347B-410B-83DE-ED2793E27246}|ModAcces\\ModAcces.csproj|solutionrelative:modacces\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C8EE4185-CC13-44A3-BB13-0A57CC3C5DBD}|Cadenas\\Cadenas.csproj|C:\\Users\\USER\\Desktop\\INTEC\\Trimetres 03 (Noviembre - Enero 2024)\\Desarrollo de Software 1\\Semana 6-11\\Practicas_Curso_C#\\Prac_1\\.vs\\DiversosProgramas\\SolucionPrincipal\\Cadenas\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8EE4185-CC13-44A3-BB13-0A57CC3C5DBD}|Cadenas\\Cadenas.csproj|solutionrelative:Cadenas\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B8367E99-2E89-40BA-BAD3-4E6A78040754}|DefCrearMet\\DefCrearMet.csproj|C:\\Users\\USER\\Desktop\\INTEC\\Trimetres 03 (Noviembre - Enero 2024)\\Desarrollo de Software 1\\Semana 6-11\\Practicas_Curso_C#\\Prac_1\\.vs\\DiversosProgramas\\SolucionPrincipal\\DefCrearMet\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B8367E99-2E89-40BA-BAD3-4E6A78040754}|DefCrearMet\\DefCrearMet.csproj|solutionrelative:DefCrearMet\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1D34E01-B135-4548-A9EE-8F9EF56B69BC}|WhileITE\\WhileITE.csproj|C:\\Users\\USER\\Desktop\\INTEC\\Trimetres 03 (Noviembre - Enero 2024)\\Desarrollo de Software 1\\Semana 6-11\\Practicas_Curso_C#\\Prac_1\\.vs\\DiversosProgramas\\SolucionPrincipal\\WhileITE\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1D34E01-B135-4548-A9EE-8F9EF56B69BC}|WhileITE\\WhileITE.csproj|solutionrelative:WhileITE\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ACC174B8-F684-4D37-83CC-FED7B8E8623C}|For\\For.csproj|C:\\Users\\USER\\Desktop\\INTEC\\Trimetres 03 (Noviembre - Enero 2024)\\Desarrollo de Software 1\\Semana 6-11\\Practicas_Curso_C#\\Prac_1\\.vs\\DiversosProgramas\\SolucionPrincipal\\For\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ACC174B8-F684-4D37-83CC-FED7B8E8623C}|For\\For.csproj|solutionrelative:For\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{025D9FEB-6F57-4616-8A96-B836BDD21D39}|TiposDV\\TiposDV.csproj|C:\\Users\\USER\\Desktop\\INTEC\\Trimetres 03 (Noviembre - Enero 2024)\\Desarrollo de Software 1\\Semana 6-11\\Practicas_Curso_C#\\Prac_1\\.vs\\DiversosProgramas\\SolucionPrincipal\\TiposDV\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{025D9FEB-6F57-4616-8A96-B836BDD21D39}|TiposDV\\TiposDV.csproj|solutionrelative:TiposDV\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D4886069-F9CB-4114-AE47-246E780DEA34}|Matrices\\Matrices.csproj|C:\\Users\\USER\\Desktop\\INTEC\\Trimetres 03 (Noviembre - Enero 2024)\\Desarrollo de Software 1\\Semana 6-11\\Practicas_Curso_C#\\Prac_1\\.vs\\DiversosProgramas\\SolucionPrincipal\\Matrices\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D4886069-F9CB-4114-AE47-246E780DEA34}|Matrices\\Matrices.csproj|solutionrelative:Matrices\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9938DD3B-C512-4B73-998E-5A7BD56507C5}|if decision\\if decision.csproj|C:\\Users\\USER\\Desktop\\INTEC\\Trimetres 03 (Noviembre - Enero 2024)\\Desarrollo de Software 1\\Semana 6-11\\Practicas_Curso_C#\\Prac_1\\.vs\\DiversosProgramas\\SolucionPrincipal\\if decision\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9938DD3B-C512-4B73-998E-5A7BD56507C5}|if decision\\if decision.csproj|solutionrelative:if decision\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{22B61A01-55F0-42E7-99A9-FD8A2967A1E8}|FechaHora\\FechaHora.csproj|C:\\Users\\USER\\Desktop\\INTEC\\Trimetres 03 (Noviembre - Enero 2024)\\Desarrollo de Software 1\\Semana 6-11\\Practicas_Curso_C#\\Prac_1\\.vs\\DiversosProgramas\\SolucionPrincipal\\FechaHora\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{22B61A01-55F0-42E7-99A9-FD8A2967A1E8}|FechaHora\\FechaHora.csproj|solutionrelative:FechaHora\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5B437325-64AD-4AE2-88B1-C0AF04FFD5EF}|ClaseUno\\ClaseUno.csproj|C:\\Users\\USER\\Desktop\\INTEC\\Trimetres 03 (Noviembre - Enero 2024)\\Desarrollo de Software 1\\Semana 6-11\\Practicas_Curso_C#\\Prac_1\\.vs\\DiversosProgramas\\SolucionPrincipal\\ClaseUno\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B437325-64AD-4AE2-88B1-C0AF04FFD5EF}|ClaseUno\\ClaseUno.csproj|solutionrelative:ClaseUno\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -61,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -76,168 +45,73 @@
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Scrape.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\INTEC\\Trimetres 03 (Noviembre - Enero 2024)\\Desarrollo de Software 1\\Semana 6-11\\Practicas_Curso_C#\\Prac_1\\.vs\\DiversosProgramas\\SolucionPrincipal\\BiblioUno\\Scrape.cs",
-              "RelativeDocumentMoniker": "BiblioUno\\Scrape.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\INTEC\\Trimetres 03 (Noviembre - Enero 2024)\\Desarrollo de Software 1\\Semana 6-11\\Practicas_Curso_C#\\Prac_1\\.vs\\DiversosProgramas\\SolucionPrincipal\\BiblioUno\\Scrape.cs",
-              "RelativeToolTip": "BiblioUno\\Scrape.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-19T15:12:53.671Z",
-              "EditorCaption": ""
-            },
-            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\INTEC\\Trimetres 03 (Noviembre - Enero 2024)\\Desarrollo de Software 1\\Semana 6-11\\Practicas_Curso_C#\\Prac_1\\.vs\\DiversosProgramas\\SolucionPrincipal\\LastLesson\\Program.cs",
+              "RelativeDocumentMoniker": "LastLesson\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\INTEC\\Trimetres 03 (Noviembre - Enero 2024)\\Desarrollo de Software 1\\Semana 6-11\\Practicas_Curso_C#\\Prac_1\\.vs\\DiversosProgramas\\SolucionPrincipal\\LastLesson\\Program.cs*",
+              "RelativeToolTip": "LastLesson\\Program.cs*",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T19:57:20.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\INTEC\\Trimetres 03 (Noviembre - Enero 2024)\\Desarrollo de Software 1\\Semana 6-11\\Practicas_Curso_C#\\Prac_1\\.vs\\DiversosProgramas\\SolucionPrincipal\\Clases\\Program.cs",
-              "RelativeDocumentMoniker": "Clases\\Program.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\INTEC\\Trimetres 03 (Noviembre - Enero 2024)\\Desarrollo de Software 1\\Semana 6-11\\Practicas_Curso_C#\\Prac_1\\.vs\\DiversosProgramas\\SolucionPrincipal\\Clases\\Program.cs",
-              "RelativeToolTip": "Clases\\Program.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAYwCQAAAApAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\INTEC\\Trimetres 03 (Noviembre - Enero 2024)\\Desarrollo de Software 1\\Semana 6-11\\Practicas_Curso_C#\\Prac_1\\.vs\\DiversosProgramas\\SolucionPrincipal\\Collections\\Program.cs",
+              "RelativeDocumentMoniker": "Collections\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\INTEC\\Trimetres 03 (Noviembre - Enero 2024)\\Desarrollo de Software 1\\Semana 6-11\\Practicas_Curso_C#\\Prac_1\\.vs\\DiversosProgramas\\SolucionPrincipal\\Collections\\Program.cs",
+              "RelativeToolTip": "Collections\\Program.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAswE8AAABMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-19T14:01:00.392Z",
+              "WhenOpened": "2025-01-19T19:15:46.195Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\INTEC\\Trimetres 03 (Noviembre - Enero 2024)\\Desarrollo de Software 1\\Semana 6-11\\Practicas_Curso_C#\\Prac_1\\.vs\\DiversosProgramas\\SolucionPrincipal\\ModAcces\\Program.cs",
-              "RelativeDocumentMoniker": "ModAcces\\Program.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\INTEC\\Trimetres 03 (Noviembre - Enero 2024)\\Desarrollo de Software 1\\Semana 6-11\\Practicas_Curso_C#\\Prac_1\\.vs\\DiversosProgramas\\SolucionPrincipal\\ModAcces\\Program.cs",
-              "RelativeToolTip": "ModAcces\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAsAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\INTEC\\Trimetres 03 (Noviembre - Enero 2024)\\Desarrollo de Software 1\\Semana 6-11\\Practicas_Curso_C#\\Prac_1\\.vs\\DiversosProgramas\\SolucionPrincipal\\Switch\\Program.cs",
+              "RelativeDocumentMoniker": "Switch\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\INTEC\\Trimetres 03 (Noviembre - Enero 2024)\\Desarrollo de Software 1\\Semana 6-11\\Practicas_Curso_C#\\Prac_1\\.vs\\DiversosProgramas\\SolucionPrincipal\\Switch\\Program.cs",
+              "RelativeToolTip": "Switch\\Program.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAmwD4AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-18T17:58:11.229Z",
+              "WhenOpened": "2025-01-19T17:41:12.71Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\INTEC\\Trimetres 03 (Noviembre - Enero 2024)\\Desarrollo de Software 1\\Semana 6-11\\Practicas_Curso_C#\\Prac_1\\.vs\\DiversosProgramas\\SolucionPrincipal\\For\\Program.cs",
-              "RelativeDocumentMoniker": "For\\Program.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\INTEC\\Trimetres 03 (Noviembre - Enero 2024)\\Desarrollo de Software 1\\Semana 6-11\\Practicas_Curso_C#\\Prac_1\\.vs\\DiversosProgramas\\SolucionPrincipal\\For\\Program.cs",
-              "RelativeToolTip": "For\\Program.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBkAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T16:18:35.151Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\INTEC\\Trimetres 03 (Noviembre - Enero 2024)\\Desarrollo de Software 1\\Semana 6-11\\Practicas_Curso_C#\\Prac_1\\.vs\\DiversosProgramas\\SolucionPrincipal\\TiposDV\\Program.cs",
-              "RelativeDocumentMoniker": "TiposDV\\Program.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\INTEC\\Trimetres 03 (Noviembre - Enero 2024)\\Desarrollo de Software 1\\Semana 6-11\\Practicas_Curso_C#\\Prac_1\\.vs\\DiversosProgramas\\SolucionPrincipal\\TiposDV\\Program.cs",
-              "RelativeToolTip": "TiposDV\\Program.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBwAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T13:36:38.939Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\INTEC\\Trimetres 03 (Noviembre - Enero 2024)\\Desarrollo de Software 1\\Semana 6-11\\Practicas_Curso_C#\\Prac_1\\.vs\\DiversosProgramas\\SolucionPrincipal\\WhileITE\\Program.cs",
-              "RelativeDocumentMoniker": "WhileITE\\Program.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\INTEC\\Trimetres 03 (Noviembre - Enero 2024)\\Desarrollo de Software 1\\Semana 6-11\\Practicas_Curso_C#\\Prac_1\\.vs\\DiversosProgramas\\SolucionPrincipal\\WhileITE\\Program.cs",
-              "RelativeToolTip": "WhileITE\\Program.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAIwBYAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-18T14:06:30.003Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\INTEC\\Trimetres 03 (Noviembre - Enero 2024)\\Desarrollo de Software 1\\Semana 6-11\\Practicas_Curso_C#\\Prac_1\\.vs\\DiversosProgramas\\SolucionPrincipal\\DefCrearMet\\Program.cs",
-              "RelativeDocumentMoniker": "DefCrearMet\\Program.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\INTEC\\Trimetres 03 (Noviembre - Enero 2024)\\Desarrollo de Software 1\\Semana 6-11\\Practicas_Curso_C#\\Prac_1\\.vs\\DiversosProgramas\\SolucionPrincipal\\DefCrearMet\\Program.cs",
-              "RelativeToolTip": "DefCrearMet\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-18T15:12:10.028Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\INTEC\\Trimetres 03 (Noviembre - Enero 2024)\\Desarrollo de Software 1\\Semana 6-11\\Practicas_Curso_C#\\Prac_1\\.vs\\DiversosProgramas\\SolucionPrincipal\\Matrices\\Program.cs",
-              "RelativeDocumentMoniker": "Matrices\\Program.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\INTEC\\Trimetres 03 (Noviembre - Enero 2024)\\Desarrollo de Software 1\\Semana 6-11\\Practicas_Curso_C#\\Prac_1\\.vs\\DiversosProgramas\\SolucionPrincipal\\Matrices\\Program.cs",
-              "RelativeToolTip": "Matrices\\Program.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwBsAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T15:01:47.244Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\INTEC\\Trimetres 03 (Noviembre - Enero 2024)\\Desarrollo de Software 1\\Semana 6-11\\Practicas_Curso_C#\\Prac_1\\.vs\\DiversosProgramas\\SolucionPrincipal\\if decision\\Program.cs",
-              "RelativeDocumentMoniker": "if decision\\Program.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\INTEC\\Trimetres 03 (Noviembre - Enero 2024)\\Desarrollo de Software 1\\Semana 6-11\\Practicas_Curso_C#\\Prac_1\\.vs\\DiversosProgramas\\SolucionPrincipal\\if decision\\Program.cs",
-              "RelativeToolTip": "if decision\\Program.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAQwDIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T12:30:46.008Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "StringBuilder.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\AppData\\Local\\Temp\\.vsdbgsrc\\515e8fee713d44fd8808515ed095fcf2a59e57132f241e0166a16016e4622408\\StringBuilder.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\515e8fee713d44fd8808515ed095fcf2a59e57132f241e0166a16016e4622408\\StringBuilder.cs",
-              "ToolTip": "C:\\Users\\USER\\AppData\\Local\\Temp\\.vsdbgsrc\\515e8fee713d44fd8808515ed095fcf2a59e57132f241e0166a16016e4622408\\StringBuilder.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\515e8fee713d44fd8808515ed095fcf2a59e57132f241e0166a16016e4622408\\StringBuilder.cs",
-              "ViewState": "AgIAADAGAAAAAAAAAAAvwEMGAAAEAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\INTEC\\Trimetres 03 (Noviembre - Enero 2024)\\Desarrollo de Software 1\\Semana 6-11\\Practicas_Curso_C#\\Prac_1\\.vs\\DiversosProgramas\\SolucionPrincipal\\MoreClaMeth\\Program.cs",
+              "RelativeDocumentMoniker": "MoreClaMeth\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\INTEC\\Trimetres 03 (Noviembre - Enero 2024)\\Desarrollo de Software 1\\Semana 6-11\\Practicas_Curso_C#\\Prac_1\\.vs\\DiversosProgramas\\SolucionPrincipal\\MoreClaMeth\\Program.cs",
+              "RelativeToolTip": "MoreClaMeth\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwBQAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-18T16:55:20.517Z",
+              "WhenOpened": "2025-01-19T17:00:27.106Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\INTEC\\Trimetres 03 (Noviembre - Enero 2024)\\Desarrollo de Software 1\\Semana 6-11\\Practicas_Curso_C#\\Prac_1\\.vs\\DiversosProgramas\\SolucionPrincipal\\Cadenas\\Program.cs",
-              "RelativeDocumentMoniker": "Cadenas\\Program.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\INTEC\\Trimetres 03 (Noviembre - Enero 2024)\\Desarrollo de Software 1\\Semana 6-11\\Practicas_Curso_C#\\Prac_1\\.vs\\DiversosProgramas\\SolucionPrincipal\\Cadenas\\Program.cs",
-              "RelativeToolTip": "Cadenas\\Program.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAQwAwAAAAjAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\INTEC\\Trimetres 03 (Noviembre - Enero 2024)\\Desarrollo de Software 1\\Semana 6-11\\Practicas_Curso_C#\\Prac_1\\.vs\\DiversosProgramas\\SolucionPrincipal\\Clases\\Program.cs",
+              "RelativeDocumentMoniker": "Clases\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\INTEC\\Trimetres 03 (Noviembre - Enero 2024)\\Desarrollo de Software 1\\Semana 6-11\\Practicas_Curso_C#\\Prac_1\\.vs\\DiversosProgramas\\SolucionPrincipal\\Clases\\Program.cs",
+              "RelativeToolTip": "Clases\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAwBIAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-18T16:35:49.616Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\INTEC\\Trimetres 03 (Noviembre - Enero 2024)\\Desarrollo de Software 1\\Semana 6-11\\Practicas_Curso_C#\\Prac_1\\.vs\\DiversosProgramas\\SolucionPrincipal\\FechaHora\\Program.cs",
-              "RelativeDocumentMoniker": "FechaHora\\Program.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\INTEC\\Trimetres 03 (Noviembre - Enero 2024)\\Desarrollo de Software 1\\Semana 6-11\\Practicas_Curso_C#\\Prac_1\\.vs\\DiversosProgramas\\SolucionPrincipal\\FechaHora\\Program.cs",
-              "RelativeToolTip": "FechaHora\\Program.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBwAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-18T17:21:36.382Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\INTEC\\Trimetres 03 (Noviembre - Enero 2024)\\Desarrollo de Software 1\\Semana 6-11\\Practicas_Curso_C#\\Prac_1\\.vs\\DiversosProgramas\\SolucionPrincipal\\ClaseUno\\Program.cs",
-              "RelativeDocumentMoniker": "ClaseUno\\Program.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\INTEC\\Trimetres 03 (Noviembre - Enero 2024)\\Desarrollo de Software 1\\Semana 6-11\\Practicas_Curso_C#\\Prac_1\\.vs\\DiversosProgramas\\SolucionPrincipal\\ClaseUno\\Program.cs",
-              "RelativeToolTip": "ClaseUno\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T23:23:29.53Z"
+              "WhenOpened": "2025-01-19T14:01:00.392Z",
+              "EditorCaption": ""
             }
           ]
         }

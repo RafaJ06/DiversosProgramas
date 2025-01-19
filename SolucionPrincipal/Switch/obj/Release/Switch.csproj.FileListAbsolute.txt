@@ -1,0 +1,7 @@
+C:\Users\USER\Desktop\INTEC\Trimetres 03 (Noviembre - Enero 2024)\Desarrollo de Software 1\Semana 6-11\Practicas_Curso_C#\Prac_1\.vs\DiversosProgramas\SolucionPrincipal\Switch\bin\Release\Switch.exe.config
+C:\Users\USER\Desktop\INTEC\Trimetres 03 (Noviembre - Enero 2024)\Desarrollo de Software 1\Semana 6-11\Practicas_Curso_C#\Prac_1\.vs\DiversosProgramas\SolucionPrincipal\Switch\bin\Release\Switch.exe
+C:\Users\USER\Desktop\INTEC\Trimetres 03 (Noviembre - Enero 2024)\Desarrollo de Software 1\Semana 6-11\Practicas_Curso_C#\Prac_1\.vs\DiversosProgramas\SolucionPrincipal\Switch\bin\Release\Switch.pdb
+C:\Users\USER\Desktop\INTEC\Trimetres 03 (Noviembre - Enero 2024)\Desarrollo de Software 1\Semana 6-11\Practicas_Curso_C#\Prac_1\.vs\DiversosProgramas\SolucionPrincipal\Switch\obj\Release\Switch.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\INTEC\Trimetres 03 (Noviembre - Enero 2024)\Desarrollo de Software 1\Semana 6-11\Practicas_Curso_C#\Prac_1\.vs\DiversosProgramas\SolucionPrincipal\Switch\obj\Release\Switch.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\INTEC\Trimetres 03 (Noviembre - Enero 2024)\Desarrollo de Software 1\Semana 6-11\Practicas_Curso_C#\Prac_1\.vs\DiversosProgramas\SolucionPrincipal\Switch\obj\Release\Switch.exe
+C:\Users\USER\Desktop\INTEC\Trimetres 03 (Noviembre - Enero 2024)\Desarrollo de Software 1\Semana 6-11\Practicas_Curso_C#\Prac_1\.vs\DiversosProgramas\SolucionPrincipal\Switch\obj\Release\Switch.pdb
