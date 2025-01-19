@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Lesson18",
+    "\\Lesson18\\ScrapeClient"
   ],
+  "SelectedNode": "\\Lesson18\\ScrapeLibrary",
   "PreviewInSolutionExplorer": false
 }

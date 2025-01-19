@@ -1,0 +1,10 @@
+C:\Users\USER\Desktop\INTEC\Trimetres 03 (Noviembre - Enero 2024)\Desarrollo de Software 1\Semana 6-11\Practicas_Curso_C#\Prac_1\.vs\DiversosProgramas\MyClient\bin\Debug\MyClient.exe.config
+C:\Users\USER\Desktop\INTEC\Trimetres 03 (Noviembre - Enero 2024)\Desarrollo de Software 1\Semana 6-11\Practicas_Curso_C#\Prac_1\.vs\DiversosProgramas\MyClient\bin\Debug\MyClient.exe
+C:\Users\USER\Desktop\INTEC\Trimetres 03 (Noviembre - Enero 2024)\Desarrollo de Software 1\Semana 6-11\Practicas_Curso_C#\Prac_1\.vs\DiversosProgramas\MyClient\bin\Debug\MyClient.pdb
+C:\Users\USER\Desktop\INTEC\Trimetres 03 (Noviembre - Enero 2024)\Desarrollo de Software 1\Semana 6-11\Practicas_Curso_C#\Prac_1\.vs\DiversosProgramas\MyClient\bin\Debug\BiblioUno.dll
+C:\Users\USER\Desktop\INTEC\Trimetres 03 (Noviembre - Enero 2024)\Desarrollo de Software 1\Semana 6-11\Practicas_Curso_C#\Prac_1\.vs\DiversosProgramas\MyClient\bin\Debug\BiblioUno.pdb
+C:\Users\USER\Desktop\INTEC\Trimetres 03 (Noviembre - Enero 2024)\Desarrollo de Software 1\Semana 6-11\Practicas_Curso_C#\Prac_1\.vs\DiversosProgramas\MyClient\obj\Debug\MyClient.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\INTEC\Trimetres 03 (Noviembre - Enero 2024)\Desarrollo de Software 1\Semana 6-11\Practicas_Curso_C#\Prac_1\.vs\DiversosProgramas\MyClient\obj\Debug\MyClient.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\INTEC\Trimetres 03 (Noviembre - Enero 2024)\Desarrollo de Software 1\Semana 6-11\Practicas_Curso_C#\Prac_1\.vs\DiversosProgramas\MyClient\obj\Debug\MyClient.csproj.Up2Date
+C:\Users\USER\Desktop\INTEC\Trimetres 03 (Noviembre - Enero 2024)\Desarrollo de Software 1\Semana 6-11\Practicas_Curso_C#\Prac_1\.vs\DiversosProgramas\MyClient\obj\Debug\MyClient.exe
+C:\Users\USER\Desktop\INTEC\Trimetres 03 (Noviembre - Enero 2024)\Desarrollo de Software 1\Semana 6-11\Practicas_Curso_C#\Prac_1\.vs\DiversosProgramas\MyClient\obj\Debug\MyClient.pdb
